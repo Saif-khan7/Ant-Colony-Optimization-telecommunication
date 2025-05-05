@@ -1,0 +1,16 @@
+[
+    { "u":"A","v":"B","latencyMs":2,"capacityMbps":100 },
+    { "u":"A","v":"E","latencyMs":6,"capacityMbps": 90 },
+    { "u":"B","v":"C","latencyMs":3,"capacityMbps":100 },
+    { "u":"B","v":"F","latencyMs":4,"capacityMbps": 80 },
+    { "u":"C","v":"D","latencyMs":2,"capacityMbps": 70 },
+    { "u":"C","v":"G","latencyMs":5,"capacityMbps":120 },
+    { "u":"D","v":"H","latencyMs":3,"capacityMbps": 60 },
+    { "u":"E","v":"F","latencyMs":2,"capacityMbps":110 },
+    { "u":"F","v":"G","latencyMs":3,"capacityMbps": 90 },
+    { "u":"G","v":"H","latencyMs":4,"capacityMbps": 80 },
+    { "u":"E","v":"I","latencyMs":5,"capacityMbps":100 },
+    { "u":"H","v":"J","latencyMs":3,"capacityMbps": 70 },
+    { "u":"I","v":"J","latencyMs":2,"capacityMbps": 90 }
+  ]
+  

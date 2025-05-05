@@ -1,0 +1,5 @@
+[
+  { "src":"A","dst":"H","trafficMbps":40 },
+  { "src":"E","dst":"D","trafficMbps":30 },
+  { "src":"I","dst":"C","trafficMbps":20 }
+]

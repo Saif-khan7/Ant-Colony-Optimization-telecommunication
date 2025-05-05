@@ -1,0 +1,10 @@
+{
+  "ants": 40,
+  "iterations": 50,
+  "alpha": 1.0,
+  "beta": 2.0,
+  "rho": 0.4,
+  "Q": 100.0,
+  "betaCongestion": 5.0
+}
+

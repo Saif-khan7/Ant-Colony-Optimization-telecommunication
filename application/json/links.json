@@ -1,0 +1,8 @@
+[
+    { "u": "A", "v": "B", "latencyMs": 2, "capacityMbps": 100 },
+    { "u": "B", "v": "C", "latencyMs": 4, "capacityMbps":  80 },
+    { "u": "A", "v": "C", "latencyMs": 7, "capacityMbps":  60 },
+    { "u": "C", "v": "D", "latencyMs": 3, "capacityMbps": 100 },
+    { "u": "B", "v": "D", "latencyMs": 5, "capacityMbps":  70 }
+  ]
+  
